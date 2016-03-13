@@ -1,0 +1,11 @@
+Cadastro de normas (esta norma orienta sobre as boas praticas da eletrica)
+
+
+
+
+Cadastro de item
+- Marca;
+- Descrição técnica do equipamento;
+- Valor de compra;
+- Valor de venda;
+- Linha do modelo (1º linha - 2º linha - 3º Linha);
